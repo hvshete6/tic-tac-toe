@@ -8,6 +8,11 @@
   grid-gap: 15px;
 }
 
+.grid :hover{
+  background-color: #E83350;
+}
+
+
 .box {
   width: auto;
   height: 150px;
